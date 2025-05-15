@@ -1,5 +1,5 @@
 
-#ifndef cabecalho
+#include cabecalho
 #define cabecalho
 
 // Realizar depósito
@@ -10,5 +10,3 @@ void realizarSaque(float *saldo);
 
 // Exibir o saldo atual
 void exibirSaldo(float saldo);
-
-#endif

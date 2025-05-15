@@ -1,6 +1,6 @@
 
-#include cabecalho
-#define cabecalho
+#ifndef BANCO_H
+#define BANCO_H
 
 // Realizar depósito
 void realizarDeposito(float *saldo);
@@ -10,3 +10,5 @@ void realizarSaque(float *saldo);
 
 // Exibir o saldo atual
 void exibirSaldo(float saldo);
+
+#endif

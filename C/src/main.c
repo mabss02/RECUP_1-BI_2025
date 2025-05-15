@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "cabecalho"
+#include "banco.h"
 
 int main() {
     float saldo = 0.0;

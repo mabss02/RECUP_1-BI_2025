@@ -2,6 +2,7 @@
 
 Maria Beatriz Wagner Trindade - 7º período - Ciências da Computação
 
+Adicionei nas abas "Pull Request" e "Branches" o arquivo .pdf
 1) Faça um programa simples que simule um sistema bancário utilizando a linguagem C.
 Requisitos mínimos:
 

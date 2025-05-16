@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "banco.h"
+#include "../Atividade/banco.h"
 
 int main() {
     float saldo = 0.0;

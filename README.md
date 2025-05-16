@@ -2,24 +2,24 @@
 
 Maria Beatriz Wagner Trindade - 7º período - Ciências da Computação
 
-Colocar isso em um PDF
+PDF: 
 
-Cabeçalho:
+1) Faça um programa simples que simule um sistema bancário utilizando a linguagem C.
+Requisitos mínimos:
 
-Declara as funções que o sistema bancário vai utilizar, incluindo depósito, saque e exibição de saldo.
+>> Crie um repositório público chamado “RECUP_1ºBI_2025”
+>> Envie o link do REPOSITÓRIO no Portal Uniandrade (Aqui nesta atividade)
+>> Crie e Valide apenas as funções (Depositar, Sacar)
+>> Crie funções para separação clara de responsabilidades
+>> Utilize cabeçalhos para organizar o código, conforme sugerido em aula
+>> Ponteiros são opcionais
+>> Sempre dê feedback em cada operação (Imprima os resultados de forma amigável)
+>> Deixe a função “main” limpa, apenas para coordenar as funcionalidades.
 
-As funções recebem e retornam os valores necessários para a manipulação do saldo.
-
-Implementação (banco.c):
-
-A função realizarDeposito adiciona um valor ao saldo, após verificar se o valor é válido.
-
-A função realizarSaque retira um valor do saldo, verificando se o valor é válido e se há saldo suficiente.
-
-A função exibirSaldo apenas imprime o saldo atual na tela.
-
-Função Principal (main.c):
-
-O programa exibe um menu com opções para depositar, sacar, consultar saldo ou sair.
-
-A função main apenas gerencia a interação do usuário com as funções específicas de depósito e saque, mantendo o código limpo e organizado.
+2) Crie um texto explicando como seu programa funciona
+>> Explique como pensou a lógica das funções criadas
+>> Descreva pontos fortes e fracos (Funcionalidades avançadas que poderiam ser
+criadas caso o programa fosse evoluir no futuro)
+>> Envie o seu texto num arquivo (.pdf) no mesmo repositório “>> RECUP_1ºBI2025”
+>> Não se esqueça de formatar adequadamente, conforme normas acadêmicas (Fonte
+arial/Times 12, justificado, espaço entre linhas 1,5 etc)
